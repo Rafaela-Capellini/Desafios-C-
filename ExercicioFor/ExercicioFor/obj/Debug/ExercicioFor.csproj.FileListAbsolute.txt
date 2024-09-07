@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\ProjetosBack\ExercicioFor\ExercicioFor\bin\Debug\ExercicioFor.exe.config
+C:\Users\Acer\Desktop\ProjetosBack\ExercicioFor\ExercicioFor\bin\Debug\ExercicioFor.exe
+C:\Users\Acer\Desktop\ProjetosBack\ExercicioFor\ExercicioFor\bin\Debug\ExercicioFor.pdb
+C:\Users\Acer\Desktop\ProjetosBack\ExercicioFor\ExercicioFor\obj\Debug\ExercicioFor.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ProjetosBack\ExercicioFor\ExercicioFor\obj\Debug\ExercicioFor.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ProjetosBack\ExercicioFor\ExercicioFor\obj\Debug\ExercicioFor.exe
+C:\Users\Acer\Desktop\ProjetosBack\ExercicioFor\ExercicioFor\obj\Debug\ExercicioFor.pdb

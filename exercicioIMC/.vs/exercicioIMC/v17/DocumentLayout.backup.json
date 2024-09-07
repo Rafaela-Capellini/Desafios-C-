@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\ProjetosBack\\exercicioIMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5DBE42-894B-4EB5-94FF-20037CA888AB}|exercicioIMC\\exercicioIMC.csproj|c:\\users\\acer\\desktop\\projetosback\\exercicioimc\\exercicioimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5DBE42-894B-4EB5-94FF-20037CA888AB}|exercicioIMC\\exercicioIMC.csproj|solutionrelative:exercicioimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\ProjetosBack\\exercicioIMC\\exercicioIMC\\Program.cs",
+              "RelativeDocumentMoniker": "exercicioIMC\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\ProjetosBack\\exercicioIMC\\exercicioIMC\\Program.cs*",
+              "RelativeToolTip": "exercicioIMC\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:02:05.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
